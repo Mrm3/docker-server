@@ -1,1 +1,1 @@
-From gcr.io/kubernetes-helm/tiller:canary
+From gcr.io/kubernetes-helm/tiller:v2.14.3
