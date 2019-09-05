@@ -1,1 +1,1 @@
-From kolla/centos-binary-placement-api:rocky
+From kolla/centos-binary-placement-api
